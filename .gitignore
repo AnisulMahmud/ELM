@@ -1,0 +1,14 @@
+elm-stuff
+node_modules
+elm/**/package-lock.json
+elm/**/index.js
+package-lock.json
+.DS_Store
+dist
+test-result*.html
+test-report.json    
+__snapshots__
+eslint_report.html
+fp_report.html
+jsdoc_report.html
+react_report.html
